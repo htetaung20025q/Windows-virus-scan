@@ -1,5 +1,5 @@
 # Windows-virus-scan
-# This tools is only for educationl purpoese.
+# This tools is only for educationl purposes.
 
 How to use...
   1. Install the file
